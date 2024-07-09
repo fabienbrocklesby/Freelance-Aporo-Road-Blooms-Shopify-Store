@@ -51,7 +51,8 @@
     "footer": {
       "type": "footer",
       "custom_css": [
-        ".link {width: 200px !important;}"
+        ".social-media .icon {width: 20px; min-width: 20px;}",
+        ".social-media .icon-social-facebook {width: 10px; min-width: 10px;}"
       ],
       "settings": {
         "color_scheme": "scheme-4",
