@@ -50,6 +50,18 @@
     },
     "footer": {
       "type": "footer",
+      "blocks": {
+        "link_list_XTxKpQ": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick links",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "link_list_XTxKpQ"
+      ],
       "custom_css": [
         ".list-social__item .icon {height: 5rem; width: 5rem;}"
       ],
