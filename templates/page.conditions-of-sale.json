@@ -50,6 +50,11 @@
         "text_nbKETf",
         "button_tP87Vc"
       ],
+      "custom_css": [
+        ".button {background: #fc5e56; color: #ffffff !important;}",
+        ".button:after {--border-offset: none;}",
+        ".button:hover {background: #fa4a41 !important; cursor: pointer !important;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
