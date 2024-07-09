@@ -117,6 +117,10 @@
     },
     "featured_collection_ERk9ff": {
       "type": "featured-collection",
+      "custom_css": [
+        "h2 {text-align: center;}",
+        ".card__heading{text-align: center;}"
+      ],
       "settings": {
         "title": "We are currently selling",
         "heading_size": "h1",
