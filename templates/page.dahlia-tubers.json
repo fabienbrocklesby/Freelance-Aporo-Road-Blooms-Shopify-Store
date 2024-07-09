@@ -30,7 +30,7 @@
         "text_jymQjm": {
           "type": "text",
           "settings": {
-            "text": "<p>We have Roadside flower shed that is stocked daily with simple freshly cut bunches of dahlias through the summer months, these sell out fast so to avoid disappointment ordering is always the safest option. <\/p><p>Open from 7:30am till sold out.<\/p><p><a href=\"https:\/\/maps.app.goo.gl\/S1DNHy1Mrt7QhyL6A\" title=\"290 Aporo Road Tasman\"><strong>290 Aporo Road Tasman<\/strong><\/a><strong> look out for the flower flag.<\/strong><\/p>"
+            "text": "<p>All tubers come in varying shapes and sizes, some big, some small, some store pristine, others with slight shrivel. All tubers sent out will be of the quality we would be happy to plant here on the farm.<\/p><p>All tubers listed have had a minimum of two growing seasons with us, first year in growing bags before they even touch our growing soil.<\/p><p>We take the care of our dahlias very seriously, strict sanitising practices are in place through the flower season and dividing process.<\/p><p>We are very vigilant when digging and dividing to be thoroughly inspecting our stock for obvious signs of disease. However due to the prevalence of dahlia disease being brought into NZ and difficulty in testing we can not 100% guarantee clean stock.<\/p><p>We provide a 24hr period to get in touch if you are unhappy with what you received. <\/p><p>Due to the nature of dahlia tubers we can not guarentee that every tuber will grow, We do our best to ensure you receive a healthy viable tuber with a viable eye. We do not refund or replace tubers that fail to grow as growing conditions are out of our hands.<\/p><p>Before you purchase please be sure you're happy with these conditions.<\/p><p>Leila.<\/p>"
           }
         },
         "button_cFfdbx": {
@@ -58,76 +58,10 @@
         "padding_top": 40,
         "padding_bottom": 28
       }
-    },
-    "multicolumn_GBiKLA": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_HrTdHd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_20240615-180246_Facebook_dfd21482-7d58-4c0d-a99c-5efc822d1e8d.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": "",
-            "text_link": ""
-          }
-        },
-        "column_63rf7R": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_20240615-180113_Facebook.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": "",
-            "text_link": ""
-          }
-        },
-        "column_f8DTwd": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_20240615-175848_Gallery-1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": "",
-            "image_link": "",
-            "text_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_HrTdHd",
-        "column_63rf7R",
-        "column_f8DTwd"
-      ],
-      "custom_css": [
-        ".multicolumn-list__item img {padding: 1rem; border-radius: 1.5rem;}"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main",
-    "rich_text_XcxzNd",
-    "multicolumn_GBiKLA"
+    "rich_text_XcxzNd"
   ]
 }
