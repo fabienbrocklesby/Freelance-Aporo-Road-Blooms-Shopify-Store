@@ -108,10 +108,72 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "collapsible_content_fXFBpB": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_jpVfqY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are Your Dahlias Grown Locally",
+            "icon": "check_mark",
+            "row_content": "<p>Yes! Everything added to our buckets and bouquets are grown here on the farm and picked fresh daily.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_QKhQDG": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_fFdJiL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_4CFbVf": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_jpVfqY",
+        "collapsible_row_QKhQDG",
+        "collapsible_row_fFdJiL",
+        "collapsible_row_4CFbVf"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "multicolumn_8cFj3q"
+    "multicolumn_8cFj3q",
+    "collapsible_content_fXFBpB"
   ]
 }
