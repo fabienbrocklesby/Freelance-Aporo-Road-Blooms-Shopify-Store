@@ -1,1 +1,397 @@
-{"sections":{"image_banner_94twFH":{"type":"image-banner","blocks":{"heading_bQbQgn":{"type":"heading","settings":{"heading":"Dahlias grown with love.","heading_size":"h1"}},"text_4dVBgx":{"type":"text","settings":{"text":"Freshly cut dahlias in the heart of Tasman","text_style":"body"}},"buttons_NQKUWw":{"type":"buttons","settings":{"button_label_1":"Our Services","button_link_1":"shopify:\/\/pages\/services","button_style_secondary_1":false,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading_bQbQgn","text_4dVBgx","buttons_NQKUWw"],"custom_css":[".button {background: #fc5e56;}",".button--primary:after {--border-offset: none;}",".button:hover {background: #fa4a41 !important; cursor: pointer !important;}"],"settings":{"image":"shopify:\/\/shop_images\/banner2.png","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"image_with_text_YL4NzK":{"type":"image-with-text","blocks":{"heading_fMpqiY":{"type":"heading","settings":{"heading":"Image with text","heading_size":"h1"}},"text_CiiAXP":{"type":"text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","text_style":"body"}},"button_jFCKkj":{"type":"button","settings":{"button_label":"Button label","button_link":"","button_style_secondary":false}}},"block_order":["heading_fMpqiY","text_CiiAXP","button_jFCKkj"],"disabled":true,"custom_css":["div {padding: 0; margin: 0;}"],"settings":{"image":"shopify:\/\/shop_images\/Screenshot_20240705-131643_Gallery.jpg","height":"adapt","desktop_image_width":"medium","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"no-overlap","section_color_scheme":"","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","padding_top":0,"padding_bottom":0}},"image_banner_J9rgee":{"type":"image-banner","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/Screenshot_20240705-131643_Gallery.jpg","image_overlay_opacity":0,"image_height":"medium","desktop_content_position":"middle-center","show_text_box":true,"desktop_content_alignment":"center","color_scheme":"","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":true,"show_text_below":true}},"multicolumn_zertVT":{"type":"multicolumn","blocks":{"column_UNMVn9":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Gemini_Generated_Image_tsbuqctsbuqctsbu-removebg-preview.png","title":"","text":"","link_label":"Buckets of dahlias","link":"shopify:\/\/pages\/buckets-of-dahlias","image_link":"shopify:\/\/collections\/buckets"}},"column_QiVUVa":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Gemini_Generated_Image_prie46prie46prie-removebg-preview.png","title":"","text":"","link_label":"Boutique dahlia bouquets","link":"shopify:\/\/pages\/boutique-dahlia-bouquets","image_link":""}},"column_krFJ6f":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Gemini_Generated_Image_fer85gfer85gfer8-removebg-preview.png","title":"","text":"","link_label":"Dahlia bouquet subscriptions","link":"shopify:\/\/pages\/flower-subscription","image_link":""}},"column_4jJGGP":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Gemini_Generated_Image_csumbdcsumbdcsum-removebg-preview.png","title":"","text":"","link_label":"Flower Shed","link":"shopify:\/\/pages\/farm-flower-shed","image_link":""}},"column_6KcLzJ":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/Tuber-Icon_57d9f556-2bb2-4fd3-ae0b-3ddbd7e6fcce.svg","title":"","text":"","link_label":"Dahlia Tubers","link":"","image_link":""}}},"block_order":["column_UNMVn9","column_QiVUVa","column_krFJ6f","column_4jJGGP","column_6KcLzJ"],"custom_css":["h2 {width: 100%; text-align: center !important;}",".multicolumn-list {justify-content: center;}"],"settings":{"title":"Our Services","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":5,"column_alignment":"center","background_style":"none","button_label":"","button_link":"","color_scheme":"","columns_mobile":"2","swipe_on_mobile":false,"padding_top":48,"padding_bottom":48}},"rich_text":{"type":"rich-text","blocks":{"heading":{"type":"heading","settings":{"heading":"Our Story","heading_size":"h1"}},"heading_ieYBcc":{"type":"heading","settings":{"heading":"Bare Cattle paddocks to boutique flower farm.","heading_size":"h2"}},"text_JhcanB":{"type":"text","settings":{"text":"<h3><strong>Where it all began <\/strong><\/h3><p>In 2021 my husband and I stumbled across a four acre block of old cattle paddocks in the heart of Tasman, we had been longing for a change from the suburban to the country lifestyle for sometime. <\/p><p>From the first glance at the property all I could envision was rows of beautiful dahlias, dahlias had already been an obsession for a while, back at our suburban property in Mapua village I already filled our drive with planter bags full of dahlia tubers dreaming of greener pastures to plant, propagate and share them with others.<\/p><p>We soon sold up and moved our two daughters and pets to live the country life. <\/p><p>With big dreams some basic tools and hard slugger Aporo Road Blooms came to life.<\/p><p>We grow many named dahlia cultivators at the same time as creating our own line of Aporo Road varieties through our breeding program, also growing other specialty cut flower and foliage for mixed bouquets and buckets of DIY blooms we offer.<\/p><p>We aimed to create a garden with long beautiful rows full of flowers, a magical place for myself and others to spend the summer in. A garden where visitors and future workshop attendees can walk through and feel the pure joy flowers bring to the sole.<\/p>"}},"heading_CX8UG4":{"type":"heading","settings":{"heading":"Boutique flower farm & studio nestled in the heart of Tasman.","heading_size":"h1"}},"text_PGjTzz":{"type":"text","settings":{"text":"<p>We grow a beautiful collection of dahlias and specialty cut flowers to share with the community and industry friends.<\/p><p>Through the summer months we offer daily freshly picked grab and go bunches in our roadside flower shed, we also make beautiful bouquets to order and offer a DIY bloom bucket option, from the first of the spring flowers till the first heavy frost.<\/p><p>We founded Aporo Road Blooms with one goal in mind: providing high-quality, carefully developed products, made for everyone. Our passion for excellence has driven us from the beginning and continues to propel us going forward. We know that every item counts, and strive to make your entire shopping experience as rewarding as possible. Don't settle for anything but the best—check us out for yourself.<\/p>"}}},"block_order":["heading","heading_ieYBcc","text_JhcanB","heading_CX8UG4","text_PGjTzz"],"custom_css":[".rich-text__heading:nth-child(2) {padding-bottom: 5vh;}",".rich-text__text:nth-of-type(2) {padding-top: 2.5vh;}"],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"scheme-1","full_width":true,"padding_top":28,"padding_bottom":12}},"image_with_text_QkEzmg":{"type":"image-with-text","settings":{"image":"shopify:\/\/shop_images\/Screenshot_20240615-172806_Gallery.jpg","height":"adapt","desktop_image_width":"small","layout":"image_first","desktop_content_position":"middle","desktop_content_alignment":"center","content_layout":"overlap","section_color_scheme":"","color_scheme":"","image_behavior":"zoom-in","mobile_content_alignment":"center","padding_top":36,"padding_bottom":36}},"rich_text_dyx4nX":{"type":"rich-text","blocks":{"heading_yk3Rqg":{"type":"heading","settings":{"heading":"Our Socials","heading_size":"h1"}},"text_gUwJQj":{"type":"text","settings":{"text":"<p>Stay in the loop with our social medias for updates!<\/p>"}}},"block_order":["heading_yk3Rqg","text_gUwJQj"],"custom_css":[],"settings":{"desktop_content_position":"center","content_alignment":"center","color_scheme":"","full_width":true,"padding_top":92,"padding_bottom":0}},"multicolumn_7y6KfJ":{"type":"multicolumn","blocks":{"column_qqjwCF":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/facebook_ed4d66ca-a49d-49b2-84c6-f9749d6b70a2.svg","title":"","text":"","link_label":"Check Out Our Facebook","link":"https:\/\/www.facebook.com\/p\/Aporo-Road-Blooms-100089493136360\/","image_link":"https:\/\/www.facebook.com\/p\/Aporo-Road-Blooms-100089493136360\/"}},"column_kF46AE":{"type":"column","settings":{"image":"shopify:\/\/shop_images\/instagram_dfe4064b-5f82-4a5c-b270-be2b548ba9d9.svg","title":"","text":"","link_label":"Check Out Our Instagram","link":"https:\/\/www.instagram.com\/apororoadblooms\/","image_link":"https:\/\/www.instagram.com\/apororoadblooms\/"}}},"block_order":["column_qqjwCF","column_kF46AE"],"custom_css":[".multicolumn-list {display: flex; justify-content: center; align-items: center;}","a {color: #fc5e56;}"],"settings":{"title":"","heading_size":"h1","image_width":"half","image_ratio":"adapt","columns_desktop":4,"column_alignment":"center","background_style":"primary","button_label":"","button_link":"","color_scheme":"","columns_mobile":"2","swipe_on_mobile":false,"padding_top":20,"padding_bottom":36}}},"order":["image_banner_94twFH","image_with_text_YL4NzK","image_banner_J9rgee","multicolumn_zertVT","rich_text","image_with_text_QkEzmg","rich_text_dyx4nX","multicolumn_7y6KfJ"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "image_banner_94twFH": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_bQbQgn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dahlias grown with love.s",
+            "heading_size": "h1"
+          }
+        },
+        "text_4dVBgx": {
+          "type": "text",
+          "settings": {
+            "text": "Freshly cut dahlias in the heart of Tasman",
+            "text_style": "body"
+          }
+        },
+        "buttons_NQKUWw": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Our Services",
+            "button_link_1": "shopify:\/\/pages\/services",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_bQbQgn",
+        "text_4dVBgx",
+        "buttons_NQKUWw"
+      ],
+      "custom_css": [
+        ".button {background: #fc5e56;}",
+        ".button--primary:after {--border-offset: none;}",
+        ".button:hover {background: #fa4a41 !important; cursor: pointer !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "image_with_text_YL4NzK": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_fMpqiY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "text_CiiAXP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_jFCKkj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fMpqiY",
+        "text_CiiAXP",
+        "button_jFCKkj"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "div {padding: 0; margin: 0;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20240705-131643_Gallery.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_banner_J9rgee": {
+      "type": "image-banner",
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20240705-131643_Gallery.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_zertVT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_UNMVn9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gemini_Generated_Image_tsbuqctsbuqctsbu-removebg-preview.png",
+            "title": "",
+            "text": "",
+            "link_label": "Buckets of dahlias",
+            "link": "shopify:\/\/pages\/buckets-of-dahlias",
+            "image_link": "shopify:\/\/collections\/buckets",
+            "text_link": ""
+          }
+        },
+        "column_QiVUVa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gemini_Generated_Image_prie46prie46prie-removebg-preview.png",
+            "title": "",
+            "text": "",
+            "link_label": "Boutique dahlia bouquets",
+            "link": "shopify:\/\/pages\/boutique-dahlia-bouquets",
+            "image_link": "",
+            "text_link": ""
+          }
+        },
+        "column_krFJ6f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gemini_Generated_Image_fer85gfer85gfer8-removebg-preview.png",
+            "title": "",
+            "text": "",
+            "link_label": "Dahlia bouquet subscriptions",
+            "link": "shopify:\/\/pages\/flower-subscription",
+            "image_link": "",
+            "text_link": ""
+          }
+        },
+        "column_4jJGGP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Gemini_Generated_Image_csumbdcsumbdcsum-removebg-preview.png",
+            "title": "",
+            "text": "",
+            "link_label": "Flower Shed",
+            "link": "shopify:\/\/pages\/farm-flower-shed",
+            "image_link": "",
+            "text_link": ""
+          }
+        },
+        "column_6KcLzJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tuber-Icon_57d9f556-2bb2-4fd3-ae0b-3ddbd7e6fcce.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Dahlia Tubers",
+            "link": "",
+            "image_link": "",
+            "text_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_UNMVn9",
+        "column_QiVUVa",
+        "column_krFJ6f",
+        "column_4jJGGP",
+        "column_6KcLzJ"
+      ],
+      "custom_css": [
+        "h2 {width: 100%; text-align: center !important;}",
+        ".multicolumn-list {justify-content: center;}"
+      ],
+      "settings": {
+        "title": "Our Services",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story",
+            "heading_size": "h1"
+          }
+        },
+        "heading_ieYBcc": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bare Cattle paddocks to boutique flower farm.",
+            "heading_size": "h2"
+          }
+        },
+        "text_JhcanB": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Where it all began <\/strong><\/h3><p>In 2021 my husband and I stumbled across a four acre block of old cattle paddocks in the heart of Tasman, we had been longing for a change from the suburban to the country lifestyle for sometime. <\/p><p>From the first glance at the property all I could envision was rows of beautiful dahlias, dahlias had already been an obsession for a while, back at our suburban property in Mapua village I already filled our drive with planter bags full of dahlia tubers dreaming of greener pastures to plant, propagate and share them with others.<\/p><p>We soon sold up and moved our two daughters and pets to live the country life. <\/p><p>With big dreams some basic tools and hard slugger Aporo Road Blooms came to life.<\/p><p>We grow many named dahlia cultivators at the same time as creating our own line of Aporo Road varieties through our breeding program, also growing other specialty cut flower and foliage for mixed bouquets and buckets of DIY blooms we offer.<\/p><p>We aimed to create a garden with long beautiful rows full of flowers, a magical place for myself and others to spend the summer in. A garden where visitors and future workshop attendees can walk through and feel the pure joy flowers bring to the sole.<\/p>"
+          }
+        },
+        "heading_CX8UG4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Boutique flower farm & studio nestled in the heart of Tasman.",
+            "heading_size": "h1"
+          }
+        },
+        "text_PGjTzz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We grow a beautiful collection of dahlias and specialty cut flowers to share with the community and industry friends.<\/p><p>Through the summer months we offer daily freshly picked grab and go bunches in our roadside flower shed, we also make beautiful bouquets to order and offer a DIY bloom bucket option, from the first of the spring flowers till the first heavy frost.<\/p><p>We founded Aporo Road Blooms with one goal in mind: providing high-quality, carefully developed products, made for everyone. Our passion for excellence has driven us from the beginning and continues to propel us going forward. We know that every item counts, and strive to make your entire shopping experience as rewarding as possible. Don't settle for anything but the best—check us out for yourself.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "heading_ieYBcc",
+        "text_JhcanB",
+        "heading_CX8UG4",
+        "text_PGjTzz"
+      ],
+      "custom_css": [
+        ".rich-text__heading:nth-child(2) {padding-bottom: 5vh;}",
+        ".rich-text__text:nth-of-type(2) {padding-top: 2.5vh;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 28,
+        "padding_bottom": 12
+      }
+    },
+    "image_with_text_QkEzmg": {
+      "type": "image-with-text",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Screenshot_20240615-172806_Gallery.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "zoom-in",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_dyx4nX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yk3Rqg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Socials",
+            "heading_size": "h1"
+          }
+        },
+        "text_gUwJQj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Stay in the loop with our social medias for updates!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yk3Rqg",
+        "text_gUwJQj"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 92,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_7y6KfJ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_qqjwCF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/facebook_ed4d66ca-a49d-49b2-84c6-f9749d6b70a2.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Check Out Our Facebook",
+            "link": "https:\/\/www.facebook.com\/p\/Aporo-Road-Blooms-100089493136360\/",
+            "image_link": "https:\/\/www.facebook.com\/p\/Aporo-Road-Blooms-100089493136360\/",
+            "text_link": ""
+          }
+        },
+        "column_kF46AE": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/instagram_dfe4064b-5f82-4a5c-b270-be2b548ba9d9.svg",
+            "title": "",
+            "text": "",
+            "link_label": "Check Out Our Instagram",
+            "link": "https:\/\/www.instagram.com\/apororoadblooms\/",
+            "image_link": "https:\/\/www.instagram.com\/apororoadblooms\/",
+            "text_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_qqjwCF",
+        "column_kF46AE"
+      ],
+      "custom_css": [
+        ".multicolumn-list {display: flex; justify-content: center; align-items: center;}",
+        "a {color: #fc5e56;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner_94twFH",
+    "image_with_text_YL4NzK",
+    "image_banner_J9rgee",
+    "multicolumn_zertVT",
+    "rich_text",
+    "image_with_text_QkEzmg",
+    "rich_text_dyx4nX",
+    "multicolumn_7y6KfJ"
+  ]
+}
