@@ -133,18 +133,9 @@
         "collapsible_row_fFdJiL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "How fresh are your flowers?",
             "icon": "check_mark",
-            "row_content": "",
-            "page": ""
-          }
-        },
-        "collapsible_row_4CFbVf": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Our flowers are picked fresh daily, ensuring the longest possible vase life and the ultimate enjoyment for you!<\/p>",
             "page": ""
           }
         }
@@ -152,8 +143,7 @@
       "block_order": [
         "collapsible_row_jpVfqY",
         "collapsible_row_QKhQDG",
-        "collapsible_row_fFdJiL",
-        "collapsible_row_4CFbVf"
+        "collapsible_row_fFdJiL"
       ],
       "settings": {
         "caption": "",
