@@ -17,101 +17,51 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn_8cFj3q": {
-      "type": "multicolumn",
+    "rich_text_bCWeDQ": {
+      "type": "rich-text",
       "blocks": {
-        "column_TcHQJY": {
-          "type": "column",
+        "heading_L4MxMW": {
+          "type": "heading",
           "settings": {
-            "image": "shopify:\/\/shop_images\/bucket.png",
-            "title": "Buckets of dahlias",
-            "text": "<p>We offer buckets in both pastel and brighter shades, perfect for styling your own weddings, events, celebrations or for floral art.<\/p>",
-            "link_label": "read more",
-            "link": "shopify:\/\/pages\/buckets-of-dahlias",
-            "image_link": "shopify:\/\/pages\/buckets-of-dahlias",
-            "text_link": ""
+            "heading": "Conditions Of Sale",
+            "heading_size": "h1"
           }
         },
-        "column_mVFNG9": {
-          "type": "column",
+        "text_nbKETf": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/test.png",
-            "title": "Boutique dahlia bouquets",
-            "text": "<p>Available for pick up from our farm in the heart of Tasman, picked fresh and arranged in the evening before they are required.<\/p>",
-            "link_label": "read more",
-            "link": "shopify:\/\/pages\/boutique-dahlia-bouquets",
-            "image_link": "shopify:\/\/pages\/boutique-dahlia-bouquets",
-            "text_link": ""
+            "text": "<p><\/p><ul><li>All dahlia tubers have been grown on our farm for two growing seasons or more they are not imports, we have strict rules in place sanitising between varieties through the flower season and individual clumps when dividing. Effort has been put in place to make sure the stock is healthy and disease free to the best of our knowledge. Given the nature of dahlias its impossible to guarantee that they are 100% disease free without testing all stock.<\/li><\/ul><p><\/p><ul><li>Please follow our dahlia care guide for best results as Aporo Road Blooms holds no responsibility for the care and growing conditions of the tubers once they leave the farm.<\/li><\/ul><p><\/p><ul><li>Tubers will be sent out at the end of September early October.<\/li><\/ul><p>  <\/p><ul><li>You will receive a tuber or small clump depending on the variety and dividing process, everything sent out will be at the standard we would grow here on the farm.<\/li><\/ul>"
           }
         },
-        "column_RwCcjW": {
-          "type": "column",
+        "button_tP87Vc": {
+          "type": "button",
           "settings": {
-            "image": "shopify:\/\/shop_images\/calendar_6b6bcd4f-45b7-40de-9f9e-fc2b3b5572d3.png",
-            "title": "Flower Subscription",
-            "text": "<p>Beautiful mixed farmer choice dahlia bouquets delivered fresh to your door on Friday afternoons to enjoy over the weekend or to share with friends.<\/p><p><strong>Purchase for yourself or for a gift that keeps giving. <\/strong><\/p>",
-            "link_label": "read more",
-            "link": "shopify:\/\/pages\/flower-subscription",
-            "image_link": "shopify:\/\/pages\/flower-subscription",
-            "text_link": ""
-          }
-        },
-        "column_GCci3e": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/shed.png",
-            "title": "Farm flower shed",
-            "text": "<p>We have Roadside flower shed that is stocked daily with simple freshly cut bunches of dahlias through the summer months, these sell out fast so to avoid disappointment ordering is always the safest option. <\/p>",
-            "link_label": "read more",
-            "link": "shopify:\/\/pages\/farm-flower-shed",
-            "image_link": "shopify:\/\/pages\/farm-flower-shed",
-            "text_link": ""
-          }
-        },
-        "column_9piHww": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Tuber-Icon_57d9f556-2bb2-4fd3-ae0b-3ddbd7e6fcce.svg",
-            "title": "Dahlia Tubers",
-            "text": "<p>We offer dahlia tubers, ready to burst into stunning blooms. Plant these underground treasures and watch your garden come alive with vibrant colors.<\/p>",
-            "link_label": "read more",
-            "link": "shopify:\/\/pages\/dahlia-tubers",
-            "image_link": "shopify:\/\/pages\/dahlia-tubers",
-            "text_link": ""
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "column_TcHQJY",
-        "column_mVFNG9",
-        "column_RwCcjW",
-        "column_GCci3e",
-        "column_9piHww"
-      ],
-      "custom_css": [
-        "h2 {width: 100%; text-align: center !important;}",
-        ".multicolumn-list {justify-content: center;}"
+        "heading_L4MxMW",
+        "text_nbKETf",
+        "button_tP87Vc"
       ],
       "settings": {
-        "title": "Our Services",
-        "heading_size": "h1",
-        "image_width": "half",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "multicolumn_8cFj3q"
+    "rich_text_bCWeDQ"
   ]
 }
