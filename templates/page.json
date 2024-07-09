@@ -115,7 +115,7 @@
         "collapsible_row_jpVfqY": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Are Your Dahlias Grown Locally",
+            "heading": "Are your dahlias grown locally",
             "icon": "check_mark",
             "row_content": "<p>Yes! Everything added to our buckets and bouquets are grown here on the farm and picked fresh daily.<\/p>",
             "page": ""
@@ -124,9 +124,9 @@
         "collapsible_row_QKhQDG": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Do you use eco-friendly packaging?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Absolutely! We use biodegradable and compostable materials to wrap and tie our bouquets.<\/p>",
             "page": ""
           }
         },
