@@ -20,7 +20,8 @@
     "image_with_text_zMrhTH": {
       "type": "image-with-text",
       "custom_css": [
-
+        ".image-with-text {width: 100%; display: flex; justify-content: center;}",
+        ".grid {width: 50%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Tuber-Icon_57d9f556-2bb2-4fd3-ae0b-3ddbd7e6fcce.svg",
@@ -34,7 +35,7 @@
         "color_scheme": "",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
