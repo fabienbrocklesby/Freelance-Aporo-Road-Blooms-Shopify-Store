@@ -69,7 +69,7 @@
         "custom_liquid_g7EU48": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<a href=\"\/pages\/conditions-of-sale\">Conditions Of Sale<\/a>"
+            "custom_liquid": "<a href=\"\/pages\/conditions-of-sale\" style=\"text-decoration: underline\">Conditions Of Sale<\/a>"
           }
         }
       },
