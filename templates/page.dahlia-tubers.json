@@ -23,7 +23,7 @@
         "heading_aJfUBi": {
           "type": "heading",
           "settings": {
-            "heading": "Farm Flower Shed",
+            "heading": "Dahlia Tubers",
             "heading_size": "h1"
           }
         },
@@ -70,7 +70,8 @@
             "text": "",
             "link_label": "",
             "link": "",
-            "image_link": ""
+            "image_link": "",
+            "text_link": ""
           }
         },
         "column_63rf7R": {
@@ -81,7 +82,8 @@
             "text": "",
             "link_label": "",
             "link": "",
-            "image_link": ""
+            "image_link": "",
+            "text_link": ""
           }
         },
         "column_f8DTwd": {
@@ -92,7 +94,8 @@
             "text": "",
             "link_label": "",
             "link": "",
-            "image_link": ""
+            "image_link": "",
+            "text_link": ""
           }
         }
       },
