@@ -50,6 +50,9 @@
     },
     "footer": {
       "type": "footer",
+      "custom_css": [
+        ".link {width: 200px !important;}"
+      ],
       "settings": {
         "color_scheme": "scheme-4",
         "newsletter_enable": false,
