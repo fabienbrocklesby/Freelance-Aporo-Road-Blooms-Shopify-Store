@@ -36,12 +36,12 @@
         "button_tP87Vc": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Our Services",
+            "button_link": "shopify:\/\/pages\/services",
             "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_2": "Any Questions?",
+            "button_link_2": "shopify:\/\/pages\/contact",
+            "button_style_secondary_2": true
           }
         }
       },
